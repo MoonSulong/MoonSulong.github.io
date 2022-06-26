@@ -10,7 +10,7 @@ const about = {
   role: 'Full Stack Engineer',
   description:
     'Inquisitive computer science graduate with solid full-stack software engineering track in web application design, development and testing, and 5 years of Ph.D. research experience in machine learning applications. Expert in programming skills in Java, Rest API, React/Redux, UI/UX, and Agile Web Development. Proficient in communication, analytical thinking and learning new technologies.',
-  resume: 'https://example.com',
+  // resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/sulongzhou/',
     github: 'https://github.com/MoonSulong',
