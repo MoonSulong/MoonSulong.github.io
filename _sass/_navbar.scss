@@ -5,10 +5,11 @@
 @use "variables" as v;
 
 .navbar {
-  box-shadow: none;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  z-index: 1200;
 }
 
 .navbar .dropdown-menu,
