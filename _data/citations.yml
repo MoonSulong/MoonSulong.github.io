@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-04'
 papers:
   zE6XQ6oAAAAJ:2osOgNQ5qMEC:
     citations: 41
@@ -10,7 +10,7 @@ papers:
     title: Classification of land use based on high-resolution remote sensing image in the three-rivers headwater region, China
     year: '2017'
   zE6XQ6oAAAAJ:UeHWp8X0CEIC:
-    citations: 118
+    citations: 120
     title: A guided latent Dirichlet allocation approach to investigate real-time latent topics of Twitter data during Hurricane Laura
     year: '2023'
   zE6XQ6oAAAAJ:WF5omc3nYNoC:
@@ -18,19 +18,23 @@ papers:
     title: Constrained natural language user interface
     year: '2024'
   zE6XQ6oAAAAJ:Y0pCki6q_DkC:
-    citations: 0
+    citations: 1
     title: Advancing smart disaster response by leveraging social sensing and mobile technology
     year: '2025'
   zE6XQ6oAAAAJ:YsMSGLbcyi4C:
     citations: 1
     title: 'Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling'
     year: '2025'
+  zE6XQ6oAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: Revealing time-sensitive latent public health and emotional distress topics in Reddit discourse during the 2025 Southern California wildfires
+    year: '2026'
   zE6XQ6oAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Machine Learning and Citizen Science Approaches for Monitoring the Changing Environment
     year: '2021'
   zE6XQ6oAAAAJ:eQOLeE2rZwMC:
-    citations: 54
+    citations: 56
     title: 'Generative ai for autonomous driving: Frontiers and opportunities'
     year: '2025'
   zE6XQ6oAAAAJ:qjMakFHDy7sC:
