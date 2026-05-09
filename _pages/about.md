@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. I am postdoc research in UrbanAI lab at Texas A&M 
+subtitle: Human-Centered AI · LLMs · Urban Intelligence
 
 profile:
   align: right
@@ -14,10 +14,10 @@ profile:
   #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of profile
+social: false # includes social icons at the bottom of profile
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,6 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Data Scientist and Researcher with an interdisciplinary background in LLMs, GeoAI, and data-driven systems.
+I am a postdoctoral researcher at the UrbanAI Lab at <a href='https://www.tamu.edu/'>Texas A&M University</a>. Previously, I received my Ph.D. from the <a href='https://www.wisc.edu/'>University of Wisconsin-Madison</a>.
 
-I build machine learning models and scalable data pipelines that integrate multi-source data to support real-world applications in disaster response, urban planning, and public health.
+I design and develope **human-centered AI systems** that integrate spatial, social, and multimodal data to support sustainable and resilient communities.
+
+My work combines **large language models**, **GeoAI**, and **UI/UX design** to support disaster resilience, public health, and urban intelligence across floods 🌊, hurricanes 💨, wildfires 🔥, and extreme heat events ☀️.
+
+I am interested in **Research Scientist** and **Applied AI roles** focused on human-centered and real-world AI systems.
