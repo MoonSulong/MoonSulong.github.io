@@ -191,6 +191,7 @@
     <div class="links">
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
+          <i class="fa-solid fa-trophy mr-1" aria-hidden="true"></i>
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
       {% endif %}
@@ -259,6 +260,17 @@
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
     </div>
+    {% if entry.tags %}
+      {% assign entry_tags = entry.tags | replace: ';', ',' | split: ',' %}
+      <div class="pub-tags">
+        {% for tag in entry_tags %}
+          {% assign clean_tag = tag | strip %}
+          {% if clean_tag != '' %}
+            <span class="tag">{{ clean_tag }}</span>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
       {% if entry.altmetric and entry.altmetric != 'false' %}

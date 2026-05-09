@@ -99,6 +99,8 @@
       }
 
       .links {
+        margin-bottom: 0.4rem;
+
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
@@ -114,7 +116,31 @@
           }
         }
         a.award.btn {
-          border-color: var(--global-highlight-color);
+          color: #3a2a00;
+          border-color: #d9a11a;
+          background: linear-gradient(180deg, #ffe8a3 0%, #ffd66b 100%);
+
+          &:hover {
+            color: #2b1f00;
+            border-color: #b88300;
+            background: linear-gradient(180deg, #ffe08a 0%, #ffc94a 100%);
+          }
+        }
+      }
+
+      .pub-tags {
+        margin-bottom: 0.4rem;
+
+        .tag {
+          display: inline-block;
+          margin-right: 0.35rem;
+          margin-bottom: 0.3rem;
+          padding: 0.1rem 0.55rem;
+          border: 1px solid var(--global-divider-color);
+          border-radius: 999px;
+          font-size: 0.75rem;
+          color: var(--global-text-color-light);
+          background-color: color-mix(in srgb, var(--global-card-bg-color) 88%, var(--global-theme-color) 12%);
         }
       }
 
