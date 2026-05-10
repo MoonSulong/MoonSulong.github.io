@@ -139,8 +139,9 @@
           border: 1px solid var(--global-divider-color);
           border-radius: 999px;
           font-size: 0.75rem;
-          color: var(--global-text-color-light);
-          background-color: color-mix(in srgb, var(--global-card-bg-color) 88%, var(--global-theme-color) 12%);
+          color: var(--global-theme-color);
+          border: 1px solid color-mix(in srgb, var(--global-theme-color) 22%, transparent);
+          background-color: color-mix(in srgb, var(--global-card-bg-color) 90%, var(--global-theme-color) 10%);
         }
       }
 

@@ -24,13 +24,19 @@ $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
+// Magenta (custom)
+$magenta-color: #9d174d!default;
+
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
 
-$white-color: #ffffff !default;
-$black-color: #000000 !default;
+$white-color: #fafafa !default;
+$black-color: #0f172a !default;
+
+// Font stacks
+$font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !default;
 
 // Theme colors
 
