@@ -637,3 +637,12 @@ a.github-user-card {
   text-align: center;
   color: var(--global-text-color);
 }
+
+  /* Ensure images inside a flexed figure fill available height */
+  figure.d-flex img,
+  figure.d-flex picture img {
+    flex: 1 1 auto;
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
