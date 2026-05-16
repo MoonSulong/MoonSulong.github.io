@@ -10,7 +10,7 @@ category: work
 
 People who have data may lack data analysis expertise, and they often struggle to efficiently view, interact with, and understand their data. Additionally, hiring a data scientist for every inquiry can be costly. **Generative AI (GenAI)** has transformed the data science ecosystem by providing an opportunity for users to analyze their data simply by **asking questions**.
 
-### Understanding User Needs
+### 👥 Understanding User Needs
 
 **Personas** represent individuals with target user groups.
 
@@ -29,7 +29,7 @@ People who have data may lack data analysis expertise, and they often struggle t
      Identified key pain points by creating personas 
 </div>
 
-### Designing the Experience
+### 🔢 Designing the Experience
 A conversational workflow that guides users through the process of asking analytical questions naturally
 
 <div class="row">
@@ -41,7 +41,7 @@ A conversational workflow that guides users through the process of asking analyt
     The journey map of a user how to ask for data analysis.
 </div>
 
-### Final System
+### 🤖 Final System
 
 The final **“Ask Mode”** experience for data analysis.
 
