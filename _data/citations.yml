@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-12'
 papers:
   zE6XQ6oAAAAJ:2osOgNQ5qMEC:
     citations: 41
@@ -9,6 +9,10 @@ papers:
     citations: 1
     title: Classification of land use based on high-resolution remote sensing image in the three-rivers headwater region, China
     year: '2017'
+  zE6XQ6oAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Wildfire Smoke Leaves Temporally Persistent and Spatially Heterogeneous Economic Impacts on Housing Markets
+    year: '2026'
   zE6XQ6oAAAAJ:UeHWp8X0CEIC:
     citations: 122
     title: A guided latent Dirichlet allocation approach to investigate real-time latent topics of Twitter data during Hurricane Laura
@@ -34,7 +38,7 @@ papers:
     title: Machine Learning and Citizen Science Approaches for Monitoring the Changing Environment
     year: '2021'
   zE6XQ6oAAAAJ:eQOLeE2rZwMC:
-    citations: 65
+    citations: 66
     title: 'Generative ai for autonomous driving: Frontiers and opportunities'
     year: '2025'
   zE6XQ6oAAAAJ:qjMakFHDy7sC:
