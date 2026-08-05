@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-08-05'
 papers:
   zE6XQ6oAAAAJ:2osOgNQ5qMEC:
     citations: 41
@@ -14,7 +14,7 @@ papers:
     title: Wildfire Smoke Leaves Temporally Persistent and Spatially Heterogeneous Economic Impacts on Housing Markets
     year: '2026'
   zE6XQ6oAAAAJ:UeHWp8X0CEIC:
-    citations: 123
+    citations: 120
     title: A guided latent Dirichlet allocation approach to investigate real-time latent topics of Twitter data during Hurricane Laura
     year: '2023'
   zE6XQ6oAAAAJ:WF5omc3nYNoC:
@@ -22,7 +22,7 @@ papers:
     title: Constrained natural language user interface
     year: '2024'
   zE6XQ6oAAAAJ:Y0pCki6q_DkC:
-    citations: 1
+    citations: 4
     title: Advancing smart disaster response by leveraging social sensing and mobile technology
     year: '2025'
   zE6XQ6oAAAAJ:YsMSGLbcyi4C:
@@ -38,13 +38,17 @@ papers:
     title: Machine Learning and Citizen Science Approaches for Monitoring the Changing Environment
     year: '2021'
   zE6XQ6oAAAAJ:eQOLeE2rZwMC:
-    citations: 76
+    citations: 80
     title: 'Generative ai for autonomous driving: Frontiers and opportunities'
     year: '2025'
   zE6XQ6oAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: Analysis of the division of the urban-rural ecotone in the city of Zhuhai
     year: '2018'
+  zE6XQ6oAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: A pilot mobile application enhanced by augmented reality to support participatory CoDesign in shared public spaces
+    year: '2026'
   zE6XQ6oAAAAJ:u-x6o8ySG0sC:
     citations: 4
     title: GIS-based distribution and land use pattern of the monasteries in Guoluo Tibetan Autonomous Prefecture in China
